@@ -12,3 +12,4 @@ Mais uma linha
 
 *Comando GIT pull
 *  Mais uma alteração para testar 
+*Comando GIT fatch
